@@ -1,0 +1,161 @@
+body {
+
+    font-family: 'Arial', sans-serif;
+    background-color: blueviolet;
+    margin: 20;
+    padding: 40px;
+    
+}
+
+.resume-container {
+
+display:flex;
+background-color: white;
+width: 95%;
+
+margin: auto;
+background-origin: 10px;
+box-shadow: 0 0 20px wheat;
+
+}
+
+.left-section {
+
+    background-color: gray;
+    color: wheat;
+    padding: 20px;
+    width: 69%;
+    text-align: justify;
+    border-right: 5px solid ;
+
+}
+.right-section{
+    padding: 5px;
+    width: 79%;
+    background-color: gray
+}
+.profile-picture {
+
+    display: flex;
+    width: 150;
+    height: 150;
+    border-radius: 50%;
+    border: 5%;
+    margin-bottom: 120;   
+    }
+
+  .ss {
+display: flex;
+margin-left: 170;
+margin-top: -260;
+font-size: 40pt;
+text-shadow: 50;
+text-shadow: 155;
+font-family: Monotype Corsiva
+
+  }  
+
+  .ss1 {
+    display: flex;
+    margin-left: 200;
+    margin-top: auto;
+    font-size: 11pt;
+    text-shadow: 50;
+    margin-left: 170;
+
+  }
+
+  .ss3 {
+    display: flex;
+    margin-left: 200;
+    margin-top: auto;
+    font-size: medium;
+    text-shadow: 50;
+    margin-left: 170;
+
+  }
+
+  .ss4 {
+
+    margin: auto;
+    font-size: 40pt;
+    font-family: Monotype Corsiva;
+    color: black;
+    text-shadow: 0 0 50px wheat;
+
+  }
+.profile-picture2 {
+
+    align-items: center;
+    width: 47px;
+    height: 50px;
+    margin-top: 2%;
+    border-radius: 50%;
+    border: 5px solid;
+    margin-bottom: 20px;
+    display:inline-flex ;
+    box-shadow:0 0 50px black; 
+
+}
+h1 {
+    font-size: 24px;
+    margin: 10px 0;
+    margin-bottom: 30px;
+    text-align: center;
+
+}
+
+h3{
+
+    font-size: 18px;
+    padding: 2%;
+    margin: 10px 0 10px;
+    color: black;
+    border-radius: 10px;
+    
+    margin-top: 1%;
+    margin-bottom: 1%;
+    text-align: center;
+    box-shadow: 0 0 50px wheat
+
+}
+
+
+
+ul {
+
+    list-style-type: fill round;
+    padding: 10;
+    margin: 10px 0;
+
+}
+
+
+.right-section {
+
+padding: 20px;
+width: 65%;
+
+}
+
+
+button {
+
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    box-shadow: 0 0 15px black ;
+    cursor: pointer;
+    margin-top: 10px;
+    font-size: 18px;
+    
+}
+
+button:hover {
+
+
+    background-color: blanchedalmond;
+}
+
+
+
+  
